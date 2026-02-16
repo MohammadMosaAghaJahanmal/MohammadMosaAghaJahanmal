@@ -136,11 +136,6 @@ https://sites.google.com/view/save-blood-bank-privacy-policy
 
 <div align="center">
 
-### 📈 **GitHub Stats**
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadMosaAghaJahanmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-
-### 🔝 **Top Languages**
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadMosaAghaJahanmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117" />
 
 ### ⚡ **GitHub Streak**
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MohammadMosaAghaJahanmal&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />

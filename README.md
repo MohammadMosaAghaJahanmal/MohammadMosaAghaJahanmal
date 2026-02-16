@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" style="border-radius: 50%; border: 3px solid #00BFFF;" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" style="border-radius: 50%; border: 3px solid #00BFFF;" />
 
 # Mohammad Mosa Agha (Jahanmal)
 
-### 🚀 Full-Stack MERN Developer | Next.js Specialist | React Native (iOS & Android)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Next.js+Specialist;React+Native+(iOS+%26+Android);Published+App+Store+%26+Play+Store+Developer;Building+Scalable+Production+Systems" />
+
+<br/>
 
 <p>
   <a href="mailto:iamceayber@gmail.com">
@@ -13,29 +15,32 @@
   <a href="https://jahanmal.xyz">
     <img src="https://img.shields.io/badge/Portfolio-jahanmal.xyz-success?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?username=MohammadMosaAghaJahanmal">
-    <img src="https://komarev.com/ghpvc/?username=MohammadMosaAghaJahanmal&style=for-the-badge&color=blue"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MohammadMosaAghaJahanmal&style=for-the-badge&color=blue"/>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+# 👨‍💻 About Me
 
-I am a **production-level Full Stack Developer** with strong experience in building **scalable web applications and mobile apps**.
+I am a **production-level Full Stack Developer** with strong expertise in building **real-world scalable web and mobile applications**.
 
 I specialize in:
 
 - ⚡ MERN Stack (MongoDB, Express, React, Node.js)
-- ⚡ Next.js (Advanced Routing, SSR, Dashboard Systems)
+- ⚡ Next.js (Advanced Routing, SSR, Admin Dashboards)
 - ⚡ React Native (Published iOS & Android Apps)
-- ⚡ REST API Development & Secure Authentication
-- ⚡ Admin Panels, Role-Based Systems, and Real Business Logic
-- ⚡ Clean UI/UX & Performance Optimization
+- ⚡ Secure REST APIs & Authentication Systems
+- ⚡ Role-Based Access Control Systems
+- ⚡ Clean Architecture & Performance Optimization
 
-I build applications that are not just functional — but **market-ready, scalable, and professionally structured.**
+I build applications that are:
+
+✔ Scalable  
+✔ Secure  
+✔ Professionally structured  
+✔ Ready for production  
 
 ---
 
@@ -43,36 +48,36 @@ I build applications that are not just functional — but **market-ready, scalab
 
 ## 🧠 Brainbox – Smart Finance & Cashbook App
 
-A modern finance management application built with **React Native + Custom Backend**.
+A modern finance management application built using **React Native + Custom Backend**.
 
-### 🔗 Live on Stores:
-- 🍎 App Store:  
-  https://apps.apple.com/by/app/brainbbox/id6749072247
+### 🔗 Available on:
+- 🍎 App Store  
+https://apps.apple.com/by/app/brainbbox/id6749072247
 
-- 🤖 Google Play:  
-  https://play.google.com/store/apps/details?id=com.mosaaghajahanmal.brainbbox
+- 🤖 Google Play  
+https://play.google.com/store/apps/details?id=com.mosaaghajahanmal.brainbbox
 
-- 🔐 Privacy Policy:  
-  https://sites.google.com/view/brainbbox-privacy-policy/home
+- 🔐 Privacy Policy  
+https://sites.google.com/view/brainbbox-privacy-policy/home
 
 ---
 
 ## 🩸 Blood Bank – Save Lives Platform
 
-A donor connection application built with **React Native + Location Features + Backend Integration**.
+A donor connection application built using **React Native + Location Integration + Backend APIs**.
 
 ### 🔗 Available on:
-- 🤖 Google Play:  
-  https://play.google.com/store/apps/details?id=com.mosaaghajahanmal.bloodbank
+- 🤖 Google Play  
+https://play.google.com/store/apps/details?id=com.mosaaghajahanmal.bloodbank
 
-- 🔐 Privacy Policy:  
-  https://sites.google.com/view/save-blood-bank-privacy-policy
+- 🔐 Privacy Policy  
+https://sites.google.com/view/save-blood-bank-privacy-policy
 
 *(Currently not available on App Store)*
 
 ---
 
-# 🛠 Technical Expertise
+# 🛠 Technical Skills
 
 ## 🌐 Frontend Development
 - React.js
@@ -89,14 +94,15 @@ A donor connection application built with **React Native + Location Features + B
 - Expo / EAS Build
 - Firebase Integration
 - Push Notifications
-- Store Deployment (App Store & Play Store)
+- App Store & Play Store Deployment
 
-## ⚙️ Backend Development
+## ⚙ Backend Development
 - Node.js
 - Express.js
-- RESTful APIs
-- Authentication (JWT / Role-Based Access)
-- File Upload Systems
+- RESTful API Development
+- JWT Authentication
+- Role-Based Authorization
+- File Upload & Media Handling
 - Secure Middleware Architecture
 
 ## 🗄 Database Systems
@@ -110,8 +116,8 @@ A donor connection application built with **React Native + Location Features + B
 - Razorpay
 - Custom Transaction Systems
 - Secure Order Flow
-- Webhooks Handling
-- ✅ Other payment methods can be integrated upon client request
+- Webhook Handling
+- Other payment methods can be integrated upon client request
 
 ---
 
@@ -119,33 +125,36 @@ A donor connection application built with **React Native + Location Features + B
 
 ✔ Real published applications on both stores  
 ✔ Experience with real-world business logic  
-✔ Admin dashboards with dynamic permissions  
+✔ Advanced admin dashboards with dynamic permissions  
 ✔ Clean code architecture  
-✔ Strong problem-solving mindset  
-✔ Production-ready deployment knowledge  
+✔ Strong debugging and optimization skills  
+✔ Production deployment experience  
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MohammadMosaAghaJahanmal&theme=react&border_radius=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadMosaAghaJahanmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMosaAghaJahanmal&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMosaAghaJahanmal&layout=compact&theme=vision-friendly-dark" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=MohammadMosaAghaJahanmal&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🤝 Let’s Build Something Powerful
+# 🚀 Let’s Build Something Powerful
 
 If you are looking for a **serious, scalable, and long-term developer**,  
 I am ready to contribute to your project.
 
 📩 Email: iamceayber@gmail.com  
-🌐 Portfolio: https://jahanmal.xyz
+🌐 Portfolio: https://jahanmal.xyz  
 
 ---
+

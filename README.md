@@ -140,54 +140,16 @@ https://sites.google.com/view/save-blood-bank-privacy-policy
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadMosaAghaJahanmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
 
 ### 🔝 **Top Languages**
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMosaAghaJahanmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMosaAghaJahanmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117" />
 
 ### ⚡ **GitHub Streak**
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammadMosaAghaJahanmal&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
 
-### 📊 **Weekly Development Breakdown**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=MohammadMosaAghaJahanmal&theme=onestar&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
-
-### 📌 **Popular Repositories**
-<a href="https://github.com/MohammadMosaAghaJahanmal/brainbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadMosaAghaJahanmal&repo=brainbox&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/MohammadMosaAghaJahanmal/blood-bank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohammadMosaAghaJahanmal&repo=blood-bank&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-### 📈 **Contribution Graph**
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMosaAghaJahanmal&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
-</a>
+### 📊 **Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMosaAghaJahanmal&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
 
 ### 🐍 **Contribution Snake**
-![snake gif](https://github.com/MohammadMosaAghaJahanmal/MohammadMosaAghaJahanmal/blob/output/github-contribution-grid-snake.gif)
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/your-linkedin-username/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/your-twitter-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://dev.to/your-devto-username">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
-<a href="https://medium.com/@your-medium-username">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+![github contribution grid snake animation](https://raw.githubusercontent.com/MohammadMosaAghaJahanmal/MohammadMosaAghaJahanmal/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -209,12 +171,8 @@ I am ready to contribute to your project.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <br/>
-
-### ⭐ **Show Your Support**  
-If you like my work, consider giving my repositories a ⭐!
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer"/>
 
 </div>

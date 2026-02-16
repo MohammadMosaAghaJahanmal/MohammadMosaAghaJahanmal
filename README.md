@@ -148,9 +148,11 @@ https://sites.google.com/view/save-blood-bank-privacy-policy
 ### 📊 **Contribution Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMosaAghaJahanmal&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
 
-### 🐍 **Contribution Snake**
-![github contribution grid snake animation](https://raw.githubusercontent.com/MohammadMosaAghaJahanmal/MohammadMosaAghaJahanmal/output/github-contribution-grid-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---

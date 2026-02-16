@@ -137,16 +137,17 @@ https://sites.google.com/view/save-blood-bank-privacy-policy
 <div align="center">
 
 ### 📈 **GitHub Stats**
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammadMosaAghaJahanmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammadmosaaghajahanmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
 
 ### 🔝 **Top Languages**
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMosaAghaJahanmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmosaaghajahanmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117" />
 
 ### ⚡ **GitHub Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MohammadMosaAghaJahanmal&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
+<img src="https://streak-stats.demolab.com?user=mohammadmosaaghajahanmal&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
 
 ### 📊 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadMosaAghaJahanmal&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadmosaaghajahanmal&bg_color=0d1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />

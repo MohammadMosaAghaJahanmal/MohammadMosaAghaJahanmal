@@ -136,19 +136,35 @@ https://sites.google.com/view/save-blood-bank-privacy-policy
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadMosaAghaJahanmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### 📈 **Stats & Overview**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMosaAghaJahanmal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadMosaAghaJahanmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<br/><br/>
+### 🔝 **Most Used Languages**
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MohammadMosaAghaJahanmal&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMosaAghaJahanmal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=445" />
+
+### ⚡ **GitHub Streak**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMosaAghaJahanmal&theme=tokyonight&hide_border=true" width="70%"/>
+
+### 📊 **Contribution Graph**
+
+<img src="https://activity-graph.herokuapp.com/graph?username=MohammadMosaAghaJahanmal&theme=tokyonight&hide_border=true&area=true" width="90%"/>
+
+### 🐍 **Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-# 🚀 Let’s Build Something Powerful
+# 🚀 Let's Build Something Powerful
 
 If you are looking for a **serious, scalable, and long-term developer**,  
 I am ready to contribute to your project.
@@ -158,3 +174,13 @@ I am ready to contribute to your project.
 
 ---
 
+<div align="center">
+  
+### ⭐ **Show Some Love**  
+If you like my work, consider giving my repositories a star!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer"/>
+
+</div>

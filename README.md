@@ -2,7 +2,10 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" style="border-radius: 50%; border: 3px solid #00BFFF;" />
 
-# Mohammad Mosa Agha (Jahanmal)
+# 👋 Mohammad Mosa Agha (Jahanmal)
+
+### One of the most active GitHub users in Afghanistan 🇦🇫
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Next.js+Specialist;React+Native+(iOS+%26+Android);Published+App+Store+%26+Play+Store+Developer;Building+Scalable+Production+Systems" />
 

@@ -114,6 +114,7 @@ https://sites.google.com/view/save-blood-bank-privacy-policy
 
 ## 💳 Payment Integration
 - Razorpay
+- Stripe
 - Custom Transaction Systems
 - Secure Order Flow
 - Webhook Handling
